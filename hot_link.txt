@@ -1,0 +1,34 @@
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- Data Tables -->
+        HTML:-
+        <table id="example" class="ui celled table" style="width:100%">
+        <thead></thead>
+        <tbody></tbody>
+        <tfoot></tfoot>
+        </table>
+        CSS:-
+        https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css
+        https://cdn.datatables.net/1.10.22/css/dataTables.semanticui.min.css
+        JS :- 
+        $(document).ready(function() {
+        $('#example').DataTable();
+        } );
+        https://code.jquery.com/jquery-3.5.1.js
+        https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js
+        https://cdn.datatables.net/1.10.22/js/dataTables.semanticui.min.js
+        https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.js
